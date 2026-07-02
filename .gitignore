@@ -1,0 +1,37 @@
+# Build Folder
+Debug/
+Release/
+bin/
+obj/
+
+# wxWidgets Precompiled Header
+wx_pch.h.gch/
+*.gch
+*.pch
+
+# Object Files
+*.o
+*.obj
+
+# Executable
+*.exe
+*.out
+
+# Dynamic Library
+*.dll
+*.so
+
+# Code::Blocks
+*.depend
+*.layout
+
+# VSCode
+.vscode/
+
+# Windows
+Thumbs.db
+.DS_Store
+
+# Generated Data
+*.csv
+*.txt
