@@ -6,8 +6,6 @@ A desktop application developed using **C++** and **wxWidgets** to manage studen
 
 ## 📷 Application Preview
 
-> Add your screenshots inside the `assets/` folder.
-
 ![Main Window](assets/main-window.png)
 
 ---
